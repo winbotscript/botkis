@@ -166,7 +166,7 @@ class Command extends LineAPI {
             contentType: 13,
             contentPreview: null,
             contentMetadata: 
-            { mid: 'ub8a07a67c06f966ce24bb0a023edc634',
+            { mid: 'ub8a07a67c06f966ce24bb0a023edc634,uf15090aa12f7093e9295d52ac51adf7b',
             displayName: 'wuching' }
         }
         Object.assign(this.messages,msg);
