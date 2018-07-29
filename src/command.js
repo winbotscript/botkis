@@ -166,8 +166,8 @@ class Command extends LineAPI {
             contentType: 13,
             contentPreview: null,
             contentMetadata: 
-            { mid: 'u65224f4e8812136f01b25275a54b5aef',
-            displayName: 'Arifistifik' }
+            { mid: 'uf15090aa12f7093e9295d52ac51adf7b',
+            displayName: 'kicker' }
         }
         Object.assign(this.messages,msg);
         this._sendMessage(this.messages);
