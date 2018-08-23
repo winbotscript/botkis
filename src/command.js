@@ -166,8 +166,8 @@ class Command extends LineAPI {
             contentType: 13,
             contentPreview: null,
             contentMetadata: 
-            { mid: 'ud24f1abe4f59261684edde6cc805d9ca',
-            displayName: 'kicker' }
+            { mid: 'ufe1707ae9b2ff7ab61505795b7995440',
+            displayName: '莫言' }
         }
         Object.assign(this.messages,msg);
         this._sendMessage(this.messages);
